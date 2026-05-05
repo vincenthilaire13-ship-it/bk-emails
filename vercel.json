@@ -1,0 +1,16 @@
+{
+  "crons": [
+    {
+      "path": "/api/rapport-soir",
+      "schedule": "0 20 * * *"
+    },
+    {
+      "path": "/api/rapport-hebdo",
+      "schedule": "0 7 * * 1"
+    },
+    {
+      "path": "/api/rapport-mensuel",
+      "schedule": "0 7 1 * *"
+    }
+  ]
+}

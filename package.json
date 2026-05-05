@@ -1,0 +1,8 @@
+{
+  "name": "bk-emails",
+  "version": "1.0.0",
+  "description": "Rapports automatiques BK Technique",
+  "dependencies": {
+    "resend": "^3.0.0"
+  }
+}
